@@ -2,6 +2,9 @@
 https://github.com/nhancv/ot-cpuminer
 https://github.com/nhancv/ot-cpuminer-multi
 
+### Pool
+https://aikapool.com
+
 ### Usages
 
 ```
